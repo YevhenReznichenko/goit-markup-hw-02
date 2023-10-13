@@ -60,9 +60,7 @@ background-color: #FFFFFF
 /* title styls */
 .main-title {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
+   
 }
 
 .main-title-page { color:  #FFF;
@@ -89,7 +87,7 @@ background: #4D5AE5;
         
 }
 /* section-project */
-.section-project-h3 {
+.section-project-title-page {
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
@@ -106,14 +104,16 @@ background: #4D5AE5;
 }
 /*our-team  */
 .section-team-title {
+    color: #2e2f42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.25;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
 .section-team-name {
+    color: #2e2f42;
         text-align: center;
         font-size: 20px;
         font-weight: 500;
@@ -134,7 +134,7 @@ background-color: #FFFFFF;}
     
 }
 /*our-portfolio  */
-.section-portfolio-title {
+.section-title-portfolio {
     color:#2e2f42;
         text-align: center;
         font-size: 36px;
@@ -142,7 +142,6 @@ background-color: #FFFFFF;}
         line-height: 1.11;
         letter-spacing:0.02em;
         text-transform: capitalize;
-
 }
 .section-portfolio-list{
     background-color: #FFFFFF;
@@ -164,9 +163,6 @@ background-color: #FFFFFF;}
 }
 /* main-footer */
 .main-footer {
-    width: 1440px;
-        height: 312px;
-        flex-shrink: 0;
         background: #2E2F42;
 }
 .main-footer-text {

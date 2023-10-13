@@ -67,7 +67,7 @@ width: 1440px;
     flex-shrink: 0;
 }
 
-.main-title-h1 { color:  #FFF;
+.main-title-page { color:  #FFF;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
@@ -92,7 +92,7 @@ background: #4D5AE5;
         background: #404BBF;
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
-/* section-priorotet */
+/* section-project */
 .section-project-h3 {
     color: #2e2f42;
     font-size: 20px;
@@ -101,7 +101,7 @@ background: #4D5AE5;
     letter-spacing: 0.02em;
 
 }
-.section-priorotet-text { 
+.section-project-text { 
     
         font-size: 16px;
         font-weight: 400;
@@ -124,7 +124,8 @@ background: #4D5AE5;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-team-list-item { list-style-type: none;}
+.section-team-list-item { list-style-type: none;
+background-color: #FFFFFF;}
 .section-team-text {
     color: #434455;
         text-align: center;
@@ -140,7 +141,7 @@ background: #4D5AE5;
 }
 /*our-portfolio  */
 .section-portfolio-title {
-    color: #2e2f42;
+    color:#2e2f42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
@@ -152,9 +153,10 @@ background: #4D5AE5;
 .section-portfolio-list{
     background-color: #FFFFFF;
 }
-.section-portfolio-list-item { list-style-type: none;}
+.section-portfolio-list-item { list-style-type: none;
+background-color: #FFFFFF;}
 .section-portfolio-list-title {
-    color: #2e2f42;
+    color:#2e2f42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
